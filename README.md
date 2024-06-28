@@ -1,4 +1,4 @@
-# SpringAuth
+# SpringForumAuth (CTF-task)
 ## Сложность EASY
 
 ## Легенда
